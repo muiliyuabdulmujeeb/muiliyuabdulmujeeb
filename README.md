@@ -11,7 +11,7 @@ I'm an aspiring Software Engineer, Web3 Community Manager, and Blockchain Enthus
 - 🌱 I’m currently learning JavaScript, Nodejs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, Cloud Engineer or Web3 Community management (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing muiliyuabdulmujeeb@gmail.com.
+- 📫 You can [view my resume](#) and contact me at muiliyuabdulmujeeb@gmail.com.
 
 ---
 
